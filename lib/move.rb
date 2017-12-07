@@ -10,6 +10,6 @@ end
 def input_to_index(number)
   number.to_i-1
 end
-def move(ar,in,val)
+def move(ar,number,val)
   ar[in]=val;
 end
