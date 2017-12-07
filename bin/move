@@ -11,4 +11,4 @@ input=gets.strip()
 
 number=input_to_index(input)
 
-move(board1,number,)
+move(board,number,)
