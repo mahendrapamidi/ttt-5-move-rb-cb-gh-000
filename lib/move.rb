@@ -11,5 +11,5 @@ def input_to_index(number)
   number.to_i-1
 end
 def move(ar,index,value)
-  ar[in]=value
+  ar[index]=value
 end
