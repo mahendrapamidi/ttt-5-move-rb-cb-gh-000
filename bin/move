@@ -5,5 +5,5 @@ require_relative '../lib/move.rb'
 # Code your CLI Here
 display_board
 puts "enter the number"
-number=gets.to_i
+
 input_to_index(number)
