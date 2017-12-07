@@ -7,3 +7,5 @@ display_board
 puts "enter the number"
 
 input_to_index(number)
+
+move(board,0,)
